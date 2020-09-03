@@ -3,6 +3,7 @@ layout: page
 title: Thank you for your correspondence
 ---
 ## Thank you for your correspondence
-We are delighted to hear from you. You may expect to receive an answer soon.
+Thank you for reaching out! You can expect to receive an answer soon.
 
 Have a nice day!
+-Santiago Hirschmann

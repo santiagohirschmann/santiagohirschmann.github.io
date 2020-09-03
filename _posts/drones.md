@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Shark Ninja Co-op 2020"
-date:   2020-08-15
-excerpt: "I had an incredible experience working on the robotics Advanced Development team"
-image: "/images/sharkninja.jfif"
+title:  "drones"
+date:   2019-10-31
+excerpt: "Here I worked with Prof. Koutsopoulos to study the usage of Uber and Lyft"
+image: "/images/trb-logo.jpeg"
 ---
 
 ## How to Use This Theme
