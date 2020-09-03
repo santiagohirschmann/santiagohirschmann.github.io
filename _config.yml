@@ -16,10 +16,10 @@ facebook:           default
 instagram:          default
 github:             default
 
-personal
+#personal
 location:           Boston, MA
 phone:              508-951-8736
-email:              hirschmann.s@abc.com
+email:              hirschmann.s@northeastern.edu
 
 resume_path:       /assets/resume/blank santiago hirschmann Resume Fall 2020A.pdf
 # Other
