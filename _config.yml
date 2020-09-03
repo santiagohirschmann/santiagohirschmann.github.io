@@ -23,7 +23,7 @@ email:              hirschmann.s@northeastern.edu
 
 resume_path:       /assets/resume/blank santiago hirschmann Resume Fall 2020A.pdf
 # Other
-background_image:   /images/steel1.jpg
+background_image:   /images/steel1s.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
