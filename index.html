@@ -56,26 +56,62 @@ sitemap:
 							<article class="post featured">
 								<header class="major">
 									<h2><a href="#">Hello!</a></h2>
-									<p>I am a Mechanical Engineering student pursuing my bachelors  <br />
-                    and Masters degree at Northeastern University. <br />
+									<p>I am a Mechanical Engineering student pursuing my Bachelor's and Master's degrees at Northeastern University in Boston. <br />
                     I am excited to make the world a better place through innovative design</p>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/sailing.jpg" | absolute_url }}" alt="" /></a>
-                <p>Regardless of your website's function, the homepage is what brings the user in.
-                  If it's anything short of intriguing, captivating, or just plain cool, you're out of luck and you might deter some visitors.</p>
-                <p>Your homepage must clearly describe what your site is about.
-									Having engaging content will in this manner enable you to offer and it will make your customers more inclined to purchase from you. Content is a way to position your organization in the correct place for your clients to discover you.
-								</p>
-								<p>
-									In this manner, content in itself is a standout amongst the best promoting apparatuses in your whole advertising toolbox! Rather than making your content around your promoting technique, it's limitlessly more productive to fabricate your showcasing around your content.
-								 </p>
 
-							</article>
+								<a href="#" class="image main"><img src="{{ "/images/sailing1.jpg" | absolute_url }}" alt="" /></a>
 
+
+                                <p style="text-align: center" > I am available to work from January- June 2021. Please feel free to reach out using my contact info below. </p>
+                                <p style="text-indent: 40px"> I have experience in both academic and industry settings. This ranges from a data aquisition and analysis project on the use of Uber and Lyft, to the design and implimentation of portions of a robotic vacuum.
+                                  Some skills that I have aquired along the way include:
+                								</p>
+
+
+                                <div style="float: left; width: 50%;">
+                                <ul>
+
+                                3D Design (Solidworks)<br/>
+                                DFM and DFA Analysis<br/>
+                                Design Validation<br/>
+                                Consumer Testing<br/>
+
+                                </ul>
+                                </div>
+                                <div style="float: right; width: 50%;">
+                                <ul>
+
+                                Design Validation<br/>
+                                Machine Learning<br/>
+                                Atlassian Suite Project Management<br/>
+                                MATLAB<br/>
+
+                                </ul>
+                                </div>
+
+
+                                <!--
+                                <div>
+                                    <ul class="columns" data-columns="2">
+                                        <li></li>
+                                        <li></li>
+                                        <li>Design Validation</li>
+                                        <li>Machine Learning</li>
+                                        <li>Atlassian Suite Project Management</li>
+                                        <li>Consumer Testing</li>
+                                        <li>MATLAB</li>
+                                    </ul>
+                                </div> -->
+                								<p style="text-align: center" >
+                				              Check out some of the experiences and projects I have worked on and see what I learned in each!
+                								 </p>
+
+                							</article>
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
+                {% for post in site.posts limit:4 %}
+                {% assign mod3 = forloop.index | modulo: 4 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
@@ -89,9 +125,9 @@ sitemap:
   								</article>
                   {% if mod3 == 0 %}
                   <article>
-  									<header>
+  									<!-- <header>
   										<h2><a href="#">Sponsored</a></h2>
-  									</header>
+  									</header> -->
 
   								</article>
                   {% endif %}
