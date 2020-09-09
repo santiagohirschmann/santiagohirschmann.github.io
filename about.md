@@ -9,9 +9,14 @@ sitemap:
 ---
 ## About Me
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
-
+<span class="image left"><img src="{{ "/images/circle-cropped.png" | absolute_url }}" alt="" /></span>
+<br>
+<br>
 Professionally, I am incredibly interested in mechanical engineering and the way it allows us to design the world around us. Personally, a lot of my appreciation for design and engineering carries over. I love to ski and sail, both of which require me to understand the physics affecting, and the design of, the tools I use.
+
+
+<br>
+<br>
 
 ### Volunteering
 <div class="box">
@@ -21,8 +26,17 @@ Professionally, I am incredibly interested in mechanical engineering and the way
   <br> • Served as a public relations role, answering any questions while ensuring guest safety
 
   </p>
+
+
+
+  <p>
+  <b> Cradles to Crayons </b>
+<br>  • I work with the sailing team to sort and package donated clothing that is given to young children in the Boston area
+  </p>
+
+  <p>
+  <b> Ulman Foundation</b>
+<br>  • I had hoped to bike across the United States to raise awareness for the Ulman Foundation but was unable to due to Covid. Instead I participated in a virtual experience.
+<br>  • Raised three thousand dollars to help young adults battle cancer in the Baltimore area
+  </p>
 </div>
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
