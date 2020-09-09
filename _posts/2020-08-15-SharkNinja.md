@@ -1,19 +1,16 @@
 ---
 layout: post
-title:  "Drone Dynamics"
-date:   2020-04-15
+title:  "Shark Ninja Co-op 2020"
+date:   2020-08-15
 excerpt: "I had an incredible experience working on the robotics Advanced Development team"
 image: "/images/sharkninja.jfif"
 ---
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+## Job Position
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
+I had the pleasure of working on the Robotics Advanced Development team working on the Fall 2020 line of autonomous robot vacuums.
 
-Open a terminal window or a command line and ```cd``` to that location.
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
 
 ## Features
 ### Auto-Generating Sitemap
