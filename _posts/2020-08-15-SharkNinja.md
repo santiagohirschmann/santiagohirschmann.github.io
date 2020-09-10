@@ -6,7 +6,7 @@ excerpt: "I had an incredible experience working on the robotics Advanced Develo
 image: "/images/sharkninja.jfif"
 ---
 
-## Job Position
+## Position
 
 I had the pleasure of working on the Robotics Advanced Development team working on the Fall 2020 line of autonomous robot vacuums. At the beginning of the experience, my manager left the company leaving me under the guidance of the VP of Robotics Engineering. Because I was not managed from day to day, I had the opportunity and the responsibility to determine the projects and the tasks that would be most useful to the team and it's long term goals.
 
@@ -42,16 +42,8 @@ For this project, I found that many users were complaining that they had difficu
 
 <span class="image right"><img src="{{ "/images/airducts.png" | absolute_url }}" alt="" /></span>
 
-<html>
-<body>
-                                <div style="float: right; width: 50%;">
-                                <ul>
 For this project, I had the luxury of redesigning the entire dust cup from scratch and designing a future design that would read the benefits of a better airpath, improved cleaning performance, and larger dust cup volume. Initial prototypes were made but due to Covid and more urgent projects taking priority this design was never fully validated. In this project I gained a ton of experience in Solid works as I had to create this model from scratch.
-                                </ul>
-                                </div>
 
-</body>
-</html>
 
 
 ### Infrared Receiver Project
@@ -60,26 +52,16 @@ For this project, I had the luxury of redesigning the entire dust cup from scrat
 <span class="image center"><img src="{{ "/images/IR3.png" | absolute_url }}" alt="" /></span>
 <span class="image left"><img src="{{ "/images/IR2.png" | absolute_url }}" alt="" /></span>
 
-<html>
-<body>
-                                <div style="float: right; width: 50%;">
-                                <ul>
-Here, I tried to design a mirrored surface in the IR reciever housing that would split a small beam of light and direct it to two sensors. This would have improved the accuracy of the docking guidance system and result in improved docking performance. This design ended up being too costly to be brought to MP.
-</ul>
-</div>
-
-</body>
-</html>
-
- <br> <br>
+Here, I tried to design a mirrored surface in the IR receiver housing that would split a small beam of light and direct it to two sensors. This would have improved the accuracy of the docking guidance system and result in improved docking performance. This design ended up being too costly to be brought to MP.
 
 ### Pivoting Hair Wing
+Here, I tried to solve the clogging problem above with a pivoting hair wing that would dump any clogs. This required designing a flexible rubber over mold into the part.
 
 <span class="image left"><img src="{{ "/images/pivot1.jpg" | absolute_url }}" alt="" /></span>
 <span class="image center"><img src="{{ "/images/pivot2.jpg" | absolute_url }}" alt="" /></span>
 
 
-Here, I tried to solve the clogging problem above with a pivoting hair wing that would dump any clogs. This required designing a flexible rubber over mold into the part.
+
 
 ### Snap Fits
 <span class="image left"><img src="{{ "/images/snap1.jpg" | absolute_url }}" alt="" /></span>
