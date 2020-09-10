@@ -37,7 +37,29 @@ For this project, I found that many users were complaining that they had difficu
 ### Air Path Optimization Project
 
 <span class="image left"><img src="{{ "/images/airpath1.jpg" | absolute_url }}" alt="" /></span>
-<span class="image center"><img src="{{ "/images/airpath2.jpg" | absolute_url }}" alt="" /></span>
-<span class="image left"><img src="{{ "/images/airpath3.jpg" | absolute_url }}" alt="" /></span>
+<span class="image center"><img src="{{ "/images/airpath3.jpg" | absolute_url }}" alt="" /></span>
+
+<span class="image right"><img src="{{ "/images/airducts.png" | absolute_url }}" alt="" /></span>
+
 
 For this project, I had the luxury of redesigning the entire dust cup from scratch and designing a future design that would read the benefits of a better airpath, improved cleaning performance, and larger dust cup volume. Initial prototypes were made but due to Covid and more urgent projects taking priority this design was never fully validated. In this project I gained a ton of experience in Solid works as I had to create this model from scratch.
+
+
+### Infrared Receiver Project
+
+<span class="image left"><img src="{{ "/images/IR.png" | absolute_url }}" alt="" /></span>
+<span class="image center"><img src="{{ "/images/IR3.png" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/IR2.png" | absolute_url }}" alt="" /></span>
+Here, I tried to design a mirrored surface in the IR reciever housing that would split a small beam of light and direct it to two sensors. This would have improved the accuracy of the docking guidance system and result in improved docking performance. This design ended up being too costly to be brought to MP.
+
+### Pivoting Hair Wing
+
+<span class="image left"><img src="{{ "/images/pivot1.jpg" | absolute_url }}" alt="" /></span>
+<span class="image center"><img src="{{ "/images/pivot2.jpg" | absolute_url }}" alt="" /></span>
+
+### Snap Fits
+<span class="image left"><img src="{{ "/images/snap1.jpg" | absolute_url }}" alt="" /></span>
+<span class="image center"><img src="{{ "/images/snap2.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/snap3.jpg" | absolute_url }}" alt="" /></span>
+
+<br>This project was the result of a deep dive into a DFM and DFA study where I found considerable amount of assembly time was spent on a couple of superfluous screws in the design. These snap fits were designed to replace multiple screws in the chassis assembly and would have saved $75,000 annually.
