@@ -17,11 +17,11 @@ This exciting position allowed me to work on countless smaller research and long
 
 <span class="image left"><img src="{{ "/images/problem.jpg" | absolute_url }}" alt="" /></span>
 <span class="image right"><img src="{{ "/images/cadproblem.jpg" | absolute_url }}" alt="" /></span>
-"It was difficult to get my fingers
+<i>"It was difficult to get my fingers
 into the space where the dust was
 clinging. I found it best to use
  something to insert and try
- to get the dust out”
+ to get the dust out”</i>
  <br> -Consumer
 
 For this project, I found that many users were complaining that they had difficulty emptying the dust out of their robot vacuums. I requested that I dive into the problem and solve it before we came out with the next model. This led me down a three month task of determining the causation of the problem, designing an effective solution, creating a test to validate that I had satisfactorily solved the problem, validating all other aspects of my design, coordinating with the manufacturing team in China, and getting the design and the tooling investment approved for mass production.
