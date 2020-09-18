@@ -2,6 +2,7 @@
 layout: post
 title:  "Drowning Detecting Wristband"
 date:   2019-04-15
+season: Spring 2019
 excerpt: "During my Freshman year, my team and I tried to design a solution to the problem of silent drownings in toddlers"
 image: "/images/wristband1.jpg"
 ---

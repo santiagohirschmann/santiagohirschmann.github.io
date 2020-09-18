@@ -2,6 +2,7 @@
 layout: post
 title:  "Shark Ninja Co-op 2020"
 date:   2020-08-15
+season: Spring- Summer 2020
 excerpt: "I had an incredible experience working on the robotics Advanced Development team"
 image: "/images/sharkninja.jfif"
 ---
