@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site
 
 # Social
 analytics-id:       "default"
-linkedin:            www.linkedin.com/in/santiagohirschmann
+linkedin:            https://www.linkedin.com/in/santiagohirschmann/
 facebook:           default
 instagram:          default
 github:             default
