@@ -20,4 +20,4 @@ This exciting position allowed me to work on countless smaller research and long
 <span class="image center"><img src="{{ "/images/" | absolute_url }}" alt="" /></span>
 <span class="image left"><img src="{{ "/images/IR2.png" | absolute_url }}" alt="" /></span>
 
-Here, I tried to design a mirrored surface in the IR receiver housing that would split a small beam of light and direct it to two sensors. This would have improved the accuracy of the docking guidance system and result in improved docking performance.
+Here, I designed a mirrored surface in the IR receiver housing that would split a small beam of light and direct it to two sensors. I used MATLAB to model the surface necessary to hit the IR receivers and then used a parametrization tool in SolidWorks to create the necessary mirrored surface. This would have improved the accuracy of the docking guidance system and result in improved docking performance.
