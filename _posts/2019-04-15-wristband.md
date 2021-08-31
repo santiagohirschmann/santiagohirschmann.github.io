@@ -16,7 +16,7 @@ In our research, we found that 90% of child drownings occurred in supervised env
 
 We designed a wearable device that inputs pulse oximetry data from a fingertip sensor and if a users blood oxygen levels fall below a critical criteria, the device actuates a servo that releases a bright dye into the water. This dye makes it very clear that a child is in trouble and pinpoints exactly where they are in the water.
 
-I worked on creating the dye release mechanism in Solid Works and printed it using 3D printers available at Northeastern. 
+I worked on creating the dye release mechanism in Solid Works and printed it using 3D printers available at Northeastern.
 
 
 <iframe src="{{ "/assets/resume/Design Proposal.pdf" | absolute_url }}" alt="" frameborder="2" width="100%" height="700px" allow="fullscreen"></iframe>
